@@ -1,7 +1,7 @@
 # Google-Map-Downloader
 `downloader`: A small tool, you only need to input the spatial extent and map zoom level to download Google Maps, and output to TIFF format, including the spatial coordinate system.
 
-Tested OK but bit fuddly to used
+Tested OK but bit fiddly to use
 
 ### Use
 ```python
